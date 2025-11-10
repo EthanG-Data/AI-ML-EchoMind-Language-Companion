@@ -15,10 +15,6 @@ EchoMind is an intelligent AI companion that analyzes your emotions and responds
 - **🔄 Tone Correction**: Regenerate responses with a different emotional approach
 - **⚡ Real-time Processing**: Fast inference using optimized transformer models
 
-## 🚀 Demo
-
-![EchoMind Demo](demo-screenshot.png)
-
 *EchoMind analyzing sentiment and generating an empathetic response*
 
 ## 🛠️ Installation
