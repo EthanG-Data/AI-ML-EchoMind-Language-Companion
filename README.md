@@ -167,20 +167,6 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Hugging Face** for providing excellent transformer models and infrastructure
-- **Streamlit** for making beautiful web apps accessible to Python developers
-- **CardiffNLP** for the robust sentiment analysis model
-- **Google Research** for the powerful FLAN-T5 text generation model
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. **Check existing issues** in the GitHub repository
-2. **Create a new issue** with detailed information about your problem
-3. **Join the discussion** in the repository's discussion section
 
 ## 🚨 Disclaimer
 
