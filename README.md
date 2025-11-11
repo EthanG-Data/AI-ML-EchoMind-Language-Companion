@@ -17,7 +17,7 @@ EchoMind is an intelligent AI companion that analyzes your emotions and responds
 
 *EchoMind analyzing sentiment and generating an empathetic response*
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 
@@ -98,7 +98,7 @@ If the initial response doesn't feel right, you can:
 - **Detected Sentiment**: Positive  
 - **Response**: *A celebratory and encouraging response*
 
-## ⚙️ Technical Details
+##  Technical Details
 
 ### Models Used
 - **Sentiment Analysis**: `cardiffnlp/twitter-roberta-base-sentiment-latest`
@@ -114,7 +114,7 @@ If the initial response doesn't feel right, you can:
 - **Optimized Generation**: Uses repetition penalties for higher quality output
 - **Memory Efficient**: Truncates long inputs to prevent memory issues
 
-## 🔧 Configuration
+##  Configuration
 
 ### Model Settings
 You can modify the models in the `get_pipelines()` function:
