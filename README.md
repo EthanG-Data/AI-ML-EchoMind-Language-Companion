@@ -6,14 +6,14 @@
 
 EchoMind is an intelligent AI companion that analyzes your emotions and responds with empathy. Share your thoughts, and EchoMind will listen, understand your sentiment, and provide thoughtful responses tailored to your emotional state.
 
-## ✨ Features
+##  Features
 
-- **🎭 Sentiment Analysis**: Automatically detects emotional tone (positive, neutral, negative) using state-of-the-art NLP models
-- **🗣️ Language Detection**: Identifies the language of your input for better understanding
-- **🤝 Empathetic Responses**: Generates contextually appropriate responses based on detected sentiment
-- **🎨 Customizable Output**: Control response length and creativity levels
-- **🔄 Tone Correction**: Regenerate responses with a different emotional approach
-- **⚡ Real-time Processing**: Fast inference using optimized transformer models
+- ** Sentiment Analysis**: Automatically detects emotional tone (positive, neutral, negative) using state-of-the-art NLP models
+- ** Language Detection**: Identifies the language of your input for better understanding
+- ** Empathetic Responses**: Generates contextually appropriate responses based on detected sentiment
+- ** Customizable Output**: Control response length and creativity levels
+- ** Tone Correction**: Regenerate responses with a different emotional approach
+- ** Real-time Processing**: Fast inference using optimized transformer models
 
 *EchoMind analyzing sentiment and generating an empathetic response*
 
@@ -46,7 +46,7 @@ EchoMind is an intelligent AI companion that analyzes your emotions and responds
    - The app will automatically open at `http://localhost:8501`
    - If it doesn't open automatically, navigate to the URL shown in your terminal
 
-## 📦 Dependencies
+##  Dependencies
 
 Create a `requirements.txt` file with these dependencies:
 
@@ -58,7 +58,7 @@ langdetect>=1.0.9
 sentencepiece>=0.1.99
 ```
 
-## 🎯 How It Works
+##  How It Works
 
 ### 1. Sentiment Analysis
 EchoMind uses the **CardiffNLP Twitter RoBERTa** model to analyze the emotional content of your input:
@@ -79,7 +79,7 @@ If the initial response doesn't feel right, you can:
 - Regenerate the response instantly
 - Compare different approaches
 
-## 🎮 Usage
+##  Usage
 
 1. **Share Your Thoughts**: Type anything you're feeling or thinking about
 2. **Customize Settings**: 
@@ -141,7 +141,7 @@ Modify the Streamlit interface in the UI section:
 - Adjust text areas
 - Customize page layout
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -152,19 +152,19 @@ Contributions are welcome! Here's how you can help:
 5. **Open a Pull Request**
 
 ### Ideas for Contributions
-- 🌍 Multi-language support
-- 📱 Mobile-responsive design
-- 📊 Conversation history tracking
-- 🎨 Custom themes and styling
-- 🔍 Advanced sentiment categories
-- 💾 Export conversation logs
+-  Multi-language support
+-  Mobile-responsive design
+-  Conversation history tracking
+-  Custom themes and styling
+-  Advanced sentiment categories
+-  Export conversation logs
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-## 🚨 Disclaimer
+##  Disclaimer
 
 EchoMind is designed for supportive conversation and emotional reflection. It is not a replacement for professional mental health services. If you're experiencing serious emotional distress, please consult with qualified mental health professionals.
 
