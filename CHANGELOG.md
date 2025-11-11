@@ -7,13 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### 🔄 Planned Major Features
+###  Planned Major Features
 - **Web Research Integration**: Implement web search capabilities to provide fact-based responses and current information
 - **Advanced Model Architecture**: Upgrade to larger, more capable language models for improved response quality
 - **Conversation Memory**: Add session-based conversation history and context awareness
 - **Multi-modal Support**: Support for image inputs and analysis alongside text
 
-### 🐛 Known Issues & Planned Fixes
+###  Known Issues & Planned Fixes
 
 #### High Priority
 - **Text Regeneration Tool**: Complete rework needed for the tone correction feature
@@ -37,7 +37,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Error Handling**: More graceful error messages and recovery
 - **Performance**: Optimize inference speed for CPU-only environments
 
-### 🚀 Upcoming Enhancements
+###  Upcoming Enhancements
 - **Real-time Web Search**: Integration with search APIs for current information
 - **Fact-checking**: Verify information accuracy using web sources
 - **Source Citations**: Provide sources for factual claims in responses  
@@ -49,9 +49,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [v1.0.0] - 2025-11-10
 
-### 🎉 Initial Release
+###  Initial Release
 
-#### ✨ Added
+####  Added
 - **Core Sentiment Analysis**: Implemented emotion detection using CardiffNLP RoBERTa model
 - **Intelligent Response Generation**: FLAN-T5 based text generation with emotion-aware prompting
 - **Language Detection**: Automatic language identification for user inputs
@@ -62,20 +62,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Tone Correction Feature**: Regenerate responses with different emotional approaches
 - **GPU/CPU Support**: Automatic device detection and optimization
 
-#### 🛠️ Technical Features
+####  Technical Features
 - Model caching for improved performance
 - Real-time processing with loading indicators
 - Error handling and user feedback
 - Session state management for conversation context
 
-#### 📚 Documentation
+#### Documentation
 - Comprehensive README with installation guide
 - Code comments and documentation
 - Usage examples and feature descriptions
 
 ---
 
-## 🚧 Development Status
+##  Development Status
 
 ### Current Focus Areas
 1. **Stability & Bug Fixes**: Addressing known issues in text regeneration
@@ -93,7 +93,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## 📋 Version Planning
+##  Version Planning
 
 ### v1.1.0 
 - ✅ Fix text regeneration issues
@@ -102,20 +102,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ✅ Performance optimizations
 
 ### v1.2.0 
-- 🔄 Web research integration
-- 🔄 Conversation memory system
-- 🔄 Enhanced sentiment categories
-- 🔄 Mobile-optimized interface
+-  Web research integration
+-  Conversation memory system
+-  Enhanced sentiment categories
+-  Mobile-optimized interface
 
 ### v2.0.0 
-- 🔮 Advanced model architecture
-- 🔮 Multi-modal support (text + images)
-- 🔮 Real-time fact-checking
-- 🔮 API access for developers
+-  Advanced model architecture
+-  Multi-modal support (text + images)
+-  Real-time fact-checking
+-  API access for developers
 
 ---
 
-## 🏷️ Labels & Categories
+##  Labels & Categories
 
 ### Issue Labels
 - `bug` - Something isn't working correctly
